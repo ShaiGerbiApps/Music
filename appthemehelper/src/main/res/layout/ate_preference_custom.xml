@@ -47,7 +47,7 @@
             android:textColor="?android:attr/textColorPrimary"
             tools:text="@tools:sample/lorem/random" />
 
-        <code.name.monkey.retromusic.views.BaselineGridTextView
+        <com.shaigerbi.retromusic.views.BaselineGridTextView
             android:id="@android:id/summary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -61,7 +61,7 @@
     </RelativeLayout>
 
     <!-- Preference should place its actual preference widget here. -->
-    <code.name.monkey.appthemehelper.common.views.ATESwitch
+    <com.shaigerbi.appthemehelper.common.views.ATESwitch
         android:id="@+id/switchWidget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

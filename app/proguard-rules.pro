@@ -56,7 +56,7 @@
 -keepclassmembers enum * { *; }
 -keepattributes *Annotation*, Signature, Exception
 -keepnames class androidx.navigation.fragment.NavHostFragment
--keepnames class code.name.monkey.retromusic.model.Home
+-keepnames class com.shaigerbi.retromusic.model.Home
 -keep class * extends androidx.fragment.app.Fragment{}
 -keepnames class * extends android.os.Parcelable
 -keepnames class * extends java.io.Serializable

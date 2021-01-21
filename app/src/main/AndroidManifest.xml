@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="code.name.monkey.retromusic">
+    package="com.shaigerbi.retromusic">
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
@@ -247,7 +247,7 @@
             android:value="true" />
 
         <meta-data
-            android:name="code.name.monkey.retromusic.glide.RetroMusicGlideModule"
+            android:name="com.shaigerbi.retromusic.glide.RetroMusicGlideModule"
             android:value="GlideModule" />
 
         <meta-data
