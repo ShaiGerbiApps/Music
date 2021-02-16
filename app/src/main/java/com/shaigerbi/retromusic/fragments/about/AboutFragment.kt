@@ -62,7 +62,6 @@ class AboutFragment : Fragment(R.layout.fragment_about), View.OnClickListener {
         donateLink.setOnClickListener(this)
         instagramLink.setOnClickListener(this)
         twitterLink.setOnClickListener(this)
-        changelog.setOnClickListener(this)
         openSource.setOnClickListener(this)
         pinterestLink.setOnClickListener(this)
         bugReportLink.setOnClickListener(this)
@@ -80,7 +79,6 @@ class AboutFragment : Fragment(R.layout.fragment_about), View.OnClickListener {
             R.id.donateLink -> NavigationUtil.goToSupportDevelopment(requireActivity())
             R.id.instagramLink -> openUrl(Constants.APP_INSTAGRAM_LINK)
             R.id.twitterLink -> openUrl(Constants.APP_TWITTER_LINK)
-            R.id.changelog -> openUrl(Constants.TELEGRAM_CHANGE_LOG)
             R.id.openSource -> NavigationUtil.goToOpenSource(requireActivity())
             R.id.bugReportLink -> NavigationUtil.bugReport(requireActivity())
         }
