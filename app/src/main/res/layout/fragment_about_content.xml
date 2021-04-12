@@ -8,8 +8,6 @@
 
     <include layout="@layout/card_retro_info" />
 
-    <include layout="@layout/card_social" />
-
     <include layout="@layout/card_other" />
 
 </LinearLayout>

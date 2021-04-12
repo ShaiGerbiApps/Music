@@ -32,15 +32,10 @@ import com.shaigerbi.retromusic.activities.PurchaseActivity;
 import com.shaigerbi.retromusic.activities.SupportDevelopmentActivity;
 import com.shaigerbi.retromusic.activities.UserInfoActivity;
 import com.shaigerbi.retromusic.activities.WhatsNewActivity;
-import com.shaigerbi.retromusic.activities.bugreport.BugReportActivity;
 import com.shaigerbi.retromusic.helper.MusicPlayerRemote;
 import org.jetbrains.annotations.NotNull;
 
 public class NavigationUtil {
-
-  public static void bugReport(@NonNull Activity activity) {
-    ActivityCompat.startActivity(activity, new Intent(activity, BugReportActivity.class), null);
-  }
 
   public static void goToLyrics(@NonNull Activity activity) {
     Intent intent = new Intent(activity, LyricsActivity.class);

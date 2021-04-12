@@ -16,8 +16,6 @@
         grid:layout_row="0">
 
         <include layout="@layout/card_credit" />
-
-        <include layout="@layout/card_social" />
     </LinearLayout>
 
     <LinearLayout
