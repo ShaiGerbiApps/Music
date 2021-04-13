@@ -14,25 +14,17 @@
  */
 package com.shaigerbi.retromusic.activities
 
-
 import android.os.Bundle
-import android.view.MenuItem
 import com.shaigerbi.appthemehelper.util.ATHUtil
-import com.shaigerbi.appthemehelper.util.TintHelper
 import com.shaigerbi.appthemehelper.util.ToolbarContentTintHelper
-import com.shaigerbi.retromusic.BuildConfig
 import com.shaigerbi.retromusic.R
 import com.shaigerbi.retromusic.activities.base.AbsBaseActivity
-import com.shaigerbi.retromusic.extensions.textColorPrimary
-import com.shaigerbi.retromusic.extensions.textColorSecondary
+import kotlinx.android.synthetic.main.activity_donation.*
 
-import com.google.android.gms.ads.MobileAds;
-import com.google.android.gms.ads.AdRequest
-import com.google.android.gms.ads.AdView
 
 class SupportDevelopmentActivity : AbsBaseActivity(){
 
-    lateinit var mAdView : AdView
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -44,11 +36,6 @@ class SupportDevelopmentActivity : AbsBaseActivity(){
         setLightNavigationBar(true)
 
         setupToolbar()
-
-        MobileAds.initialize(this) {}
-        mAdView = findViewById(R.id.adView)
-        val adRequest = AdRequest.Builder().build()
-        mAdView.loadAd(adRequest)
     }
 
     private fun setupToolbar() {
