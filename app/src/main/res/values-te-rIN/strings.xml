@@ -516,7 +516,7 @@
     <string name="pref_language_name">భాషను ఎంచుకోండి</string>
     <string name="translators">అనువాదకుల</string>
     <string name="translators_summary">ఈ అనువర్తనాన్ని అనువదించడానికి సహాయం చేసిన వ్యక్తులు</string>
-    <string name="try_retro_music_premium">Try Retro Music Premium</string>
+    <string name="try_retro_music_premium">Try Music Premium</string>
     <plurals name="albumSongs">
         <item quantity="one">Song</item>
         <item quantity="other">Songs</item>

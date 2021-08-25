@@ -83,7 +83,7 @@ object AppRater {
     private fun showRateDialog(context: Context, editor: SharedPreferences.Editor) {
         MaterialAlertDialogBuilder(context)
             .setTitle("Rate this App")
-            .setMessage("If you enjoy using Retro Music, please take a moment to rate it. Thanks for your support!")
+            .setMessage("If you enjoy using Music, please take a moment to rate it. Thanks for your support!")
             .setPositiveButton(R.string.app_name) { _, _ ->
                 context.startActivity(
                     Intent(

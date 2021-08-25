@@ -1,9 +1,9 @@
-#### Q: How do I get the beta version of Retro Music?
+#### Q: How do I get the beta version of Music?
 You can opt-in for the beta build by clicking on this link: https://play.google.com/apps/testing/com.shaigerbi.retromusic
 
 
 #### Q: How to restore my purchases?
-Make sure to switch and use account in the Play Store app through which you purchased before installing Retro music. The account used to install the app is also used to purchase/restore the pro license.
+Make sure to switch and use account in the Play Store app through which you purchased before installing Music. The account used to install the app is also used to purchase/restore the pro license.
 
 If you already installed, remove all other accounts except the one with which you purchased premium. Then restore the purchase.
 
@@ -17,7 +17,7 @@ Find the time stamped lyrics for your songs which don't have lyrics already. A t
 ##### STEP 2: 
 Copy these time stamped lyrics.
 ##### STEP 3: 
-Open retro music and head to the song synced lyrics editor.
+Open Music and head to the song synced lyrics editor.
 ##### STEP 4: 
 Paste the lyrics there normally and exit the editor
 ##### STEP 5: 
@@ -46,7 +46,7 @@ Settings -> Look and feel -> Select your theme.
 
 
 #### Q: Equailizer is very laggy and unstable or I am getting "No equalizer found" error. why?
-The Retro music in-built equalizer was removed updates ago so the only equalizer you will have by your OEM or android which aren't made by us and have no control over them. So you can report those issues to your OEM so that they can provide a fix in next updates.
+The Music in-built equalizer was removed updates ago so the only equalizer you will have by your OEM or android which aren't made by us and have no control over them. So you can report those issues to your OEM so that they can provide a fix in next updates.
 
 If you are seeing "No Equalizer Found" in your device, this means your device doesn't have stock equalizer MusicFx Equalizer. You can try using this one. Its made by AEX ROM developers.
 
@@ -58,7 +58,7 @@ Settings -> Other -> Last added playlist interval -> Select an option from the l
 
 
 #### Q: How do I enable fullscreen lockscreen controls?
-Settings -> Personalize -> Fullscreen controls -> Enable (this will only be visible when songs are playing from Retro Music).
+Settings -> Personalize -> Fullscreen controls -> Enable (this will only be visible when songs are playing from Music).
 
 
 #### Q: Why are gallery or random pictures showing up as album art?
@@ -66,14 +66,14 @@ Settings -> Images -> Ignore media store covers -> Enable
 
 
 #### Q: Which file types are supported?
-Retro Music uses the native media player that comes with your Android phone, so as long as a file type is supported by your phone, it's supported by Retro Music.
+Music uses the native media player that comes with your Android phone, so as long as a file type is supported by your phone, it's supported by Music.
 
 
 #### Q: Why is my device slowing down when I'm using the app?
-Retro Music is image intensive, it keeps images in the cache for quick loading.
+Music is image intensive, it keeps images in the cache for quick loading.
 
 
-#### Q: The title "Retro Music" is showing on the top of the app, how can i fix this? 
+#### Q: The title "Music" is showing on the top of the app, how can i fix this?
 Clear the app's cache and data.
 
 
@@ -116,11 +116,11 @@ To fix this:
 
 • Find 'Media storage' app and clear storage (both data and cache) of it.
 
-• Then open Retro Music app and manually scan your music from your storage. 
+• Then open Music app and manually scan your music from your storage.
 
 • Reboot the device to refresh media store (Not sure if this is necessary)
 
-NOTE: Don't panic when you will open Retro Music and see "Zero" songs there in the library. It's because you cleared Media Store which is responsible for recognising files on your device.
+NOTE: Don't panic when you will open Music and see "Zero" songs there in the library. It's because you cleared Media Store which is responsible for recognising files on your device.
 
 
 #### Q: I can't find folder menu anymore after latest update?
@@ -128,19 +128,19 @@ Head to settings -> personalise. And select folders from "library categories". I
 
 
 #### Q: After updating the app to latest version, font got removed. Why?
-Retro Music's font have now been replaced with system font now, which means the default font your system uses will be used by Retro too. It fixes all font related issues you used to face/are facing in the app. 
+Music's font have now been replaced with system font now, which means the default font your system uses will be used by Retro too. It fixes all font related issues you used to face/are facing in the app.
 
 If you think the font looks ugly, then you just need to change the default font from your Android settings (or use any Magisk module). If you can't, there's nothing we can do about it.
 
 
 #### Q: How to export playlist:
-In your built-in music player, there should be an option to save those playlist as file. Save them and import from file manager by opening it into retro music.
+In your built-in music player, there should be an option to save those playlist as file. Save them and import from file manager by opening it into Music.
 
-Note that those playlist must be of your offline music only since retro music is offline music player not an online music player. So if your playlist are of online music, it can't be opened on other offline players nor can be exported
+Note that those playlist must be of your offline music only since Music is offline music player not an online music player. So if your playlist are of online music, it can't be opened on other offline players nor can be exported
 
 
 #### Q: How to restore/import playlist:
-Retro Music will automatically detect any playlist file when that playlist file is stored in InternalStorage/Playlist. However, if it doesn't, just open "file manager" and open that playlist file with Retro Music.
+Music will automatically detect any playlist file when that playlist file is stored in InternalStorage/Playlist. However, if it doesn't, just open "file manager" and open that playlist file with Music.
 
 For restoring playlists, the location of songs must be same in both Playlist file and in your storage. For example, your music is in "Internalstorage/Music" and playlist file has songs location "Internalstorage/Songs". Then it will not going to work since both these location are different.
 

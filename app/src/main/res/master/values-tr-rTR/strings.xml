@@ -62,11 +62,11 @@
     <string name="app_share">Hey, şu havalı müzik çalara şuradan bir göz atmaya ne dersin: https://play.google.com/store/apps/details?id=%s</string>
     <string name="app_shortcut_shuffle_all_short">Karıştır</string>
     <string name="app_shortcut_top_tracks_short">Sık oynatılan parçalar</string>
-    <string name="app_widget_big_name">Retro müzik - Büyük</string>
-    <string name="app_widget_card_name">Retro müzik - Kart</string>
-    <string name="app_widget_classic_name">Retro müzik - Klasik</string>
-    <string name="app_widget_small_name">Retro müzik - Küçük</string>
-    <string name="app_widget_text_name">Retro müzik - Metin</string>
+    <string name="app_widget_big_name">müzik - Büyük</string>
+    <string name="app_widget_card_name">müzik - Kart</string>
+    <string name="app_widget_classic_name">müzik - Klasik</string>
+    <string name="app_widget_small_name">müzik - Küçük</string>
+    <string name="app_widget_text_name">müzik - Metin</string>
     <string name="artist">Sanatçı</string>
     <string name="artists">Sanatçılar</string>
     <string name="audio_focus_denied">Ses odaklaması reddedildi.</string>
@@ -144,7 +144,7 @@
     <string name="depth">Derinlik</string>
     <string name="description">Açıklama</string>
     <string name="device_info">Cihaz Bilgisi</string>
-    <string name="dialog_message_set_ringtone">Retro Müzik\'in ses ayarlarını değiştirmesine izin verin</string>
+    <string name="dialog_message_set_ringtone">Müzik\'in ses ayarlarını değiştirmesine izin verin</string>
     <string name="dialog_title_set_ringtone">Zil sesini ayarla</string>
     <string name="do_you_want_to_clear_the_blacklist">Kara listeyi temizlemek istiyor musunuz?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Kara listeden <b>%1$s</b>'i kaldırmak istiyor musunuz?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">Janr</string>
     <string name="genres">Janrlar</string>
     <string name="git_hub_summary">Projeyi GitHub\'da çatalla</string>
-    <string name="google_plus_community">Yardım istemek veya Retro Müzik güncellemelerini takip etmek için Google+ topluluğumuza katılın</string>
+    <string name="google_plus_community">Yardım istemek veya Müzik güncellemelerini takip etmek için Google+ topluluğumuza katılın</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Gradyan görüntü</string>
     <string name="image_settings_summary">Şarkıcı resimlerinin indirme ayarlarını değiştirin</string>
     <string name="inserted_x_songs_into_playlist_x">%2$s listesine %1$d parçalar eklendi.</string>
-    <string name="instagram_page_summary">Instagram\'da Retro Müzik temanızı paylaşın</string>
+    <string name="instagram_page_summary">Instagram\'da Müzik temanızı paylaşın</string>
     <string name="keyboard">Klavye</string>
     <string name="label_bit_rate">Bit Hızı</string>
     <string name="label_file_format">Biçim</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">Yerel depolama alanından seç</string>
     <string name="pick_image_intent_text">Resim koy</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Retro Müzik tasarım ilhamı almak için Pinterest sayfasını takip edin</string>
+    <string name="pinterest_page_summary">Müzik tasarım ilhamı almak için Pinterest sayfasını takip edin</string>
     <string name="plain">Sade</string>
     <string name="playing_notification_description">Oynatılıyor bildirimi, oynatma/duraklatma vb. için eylemler sağlar.</string>
     <string name="playing_notification_name">Oynatılıyor bildirimi</string>
@@ -316,7 +316,7 @@
     <string name="pref_summary_home_banner">Ana sayfa afişini etkinleştir</string>
     <string name="pref_summary_ignore_media_store_artwork">Albüm kapağı kalitesini artırabilir, ancak fotoğrafın yavaş yüklenmesine neden olur. Bunu, yalnızca düşük çözünürlüklü resimlerle ilgili sorunlarınız varsa etkinleştirin.</string>
     <string name="pref_summary_library_categories">Kütüphane kategorilerinin görünürlük ve sırasını yapılandırın</string>
-    <string name="pref_summary_lock_screen">Retro Müzik\'in özel kilit ekranı kontrollerini kullanın</string>
+    <string name="pref_summary_lock_screen">Müzik\'in özel kilit ekranı kontrollerini kullanın</string>
     <string name="pref_summary_open_source_licences">Açık kaynaklı yazılım için lisans detayları</string>
     <string name="pref_summary_round_corners">Uygulamanın kenarlarını yuvarlaklaştır</string>
     <string name="pref_summary_tab_titles">Alt gezinti çubuğu sekmeleri için başlıkları etkinleştir</string>
@@ -393,9 +393,9 @@
     <string name="restored_previous_purchase_please_restart">Önceki satın alma işlemi geri yüklendi. Tüm özelliklerden yararlanmak için lütfen uygulamayı yeniden başlatın.</string>
     <string name="restored_previous_purchases">Önceki satın almalar geri yüklendi.</string>
     <string name="restoring_purchase">Satın alım geri yükleniyor ...</string>
-    <string name="retro_equalizer">Retro Müzik Ekolayzırı</string>
-    <string name="retro_music_player">Retro Müzik Çalar</string>
-    <string name="retro_music_pro">Retro Müzik Pro</string>
+    <string name="retro_equalizer">Müzik Ekolayzırı</string>
+    <string name="retro_music_player">Müzik Çalar</string>
+    <string name="retro_music_pro">Müzik Pro</string>
     <string name="saf_delete_failed">Dosya silme başarısız oldu: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">SAF url\'si alınamıyor.</string>
@@ -483,7 +483,7 @@
     <string name="translate">Çevir</string>
     <string name="translate_community">Uygulamayı diline çevirmek için bize yardımcı ol.</string>
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Tasarımınızı Retro Müzik\'le paylaşın</string>
+    <string name="twitter_page_summary">Tasarımınızı Müzik\'le paylaşın</string>
     <string name="unlabeled">Etiketsiz</string>
     <string name="unplayable_file">Bu şarkı oynatılamadı\u2019.</string>
     <string name="up_next">Bir sonraki</string>

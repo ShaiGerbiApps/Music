@@ -64,9 +64,9 @@
     <string name="app_shortcut_top_tracks_short">Legjobb zeneszámok</string>
     <string name="app_widget_big_name">Nagy</string>
     <string name="app_widget_card_name">Kártya</string>
-    <string name="app_widget_classic_name">Retro zene - Klasszikus</string>
-    <string name="app_widget_small_name">Retro zene - Kicsi</string>
-    <string name="app_widget_text_name">Retro zene - Szöveg</string>
+    <string name="app_widget_classic_name">zene - Klasszikus</string>
+    <string name="app_widget_small_name">zene - Kicsi</string>
+    <string name="app_widget_text_name">zene - Szöveg</string>
     <string name="artist">Előadó</string>
     <string name="artists">Előadók</string>
     <string name="audio_focus_denied">Az audiofókusz megtagadva.</string>
@@ -144,7 +144,7 @@
     <string name="depth">Mélység</string>
     <string name="description">Leírás</string>
     <string name="device_info">Eszköz információ</string>
-    <string name="dialog_message_set_ringtone">Hagyja, hogy a Retro Music módosítsa az audiobeállításokat</string>
+    <string name="dialog_message_set_ringtone">Hagyja, hogy a Music módosítsa az audiobeállításokat</string>
     <string name="dialog_title_set_ringtone">Csengőhang beállítás</string>
     <string name="do_you_want_to_clear_the_blacklist">Szeretné törölni a feketelistát?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Szeretné eltávolítani a <b>%1$s</b> a feketelistáról?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">Műfaj</string>
     <string name="genres">Műfajok</string>
     <string name="git_hub_summary">Szerezd meg a projektet a githubon</string>
-    <string name="google_plus_community">Csatlakozzon a Google Plus közösséghez ahol segítséget kérhet, vagy követheti a Retro Zene Alkalmazás frissítéseit</string>
+    <string name="google_plus_community">Csatlakozzon a Google Plus közösséghez ahol segítséget kérhet, vagy követheti a Zene Alkalmazás frissítéseit</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Színátmenet kép</string>
     <string name="image_settings_summary">A művészképek letöltésének megváltoztatása</string>
     <string name="inserted_x_songs_into_playlist_x">%1$d dalt betett a %2$s lejátszási listába.</string>
-    <string name="instagram_page_summary">Ossza meg Retro Music beállításait, hogy bemutassa a Instagram-on</string>
+    <string name="instagram_page_summary">Ossza meg Music beállításait, hogy bemutassa a Instagram-on</string>
     <string name="keyboard">Billentyűzet</string>
     <string name="label_bit_rate">Bitrát</string>
     <string name="label_file_format">Formátum</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">Válasszon a helyi tárolóból</string>
     <string name="pick_image_intent_text">Válasszon képet</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Kövesse a Pinterest oldalt a Retro Music design inspirációjához</string>
+    <string name="pinterest_page_summary">Kövesse a Pinterest oldalt a Music design inspirációjához</string>
     <string name="plain">Egyszerű</string>
     <string name="playing_notification_description">A lejátszási értesítés lejátszási/szüneteltetési intézkedéseket tartalmaz.</string>
     <string name="playing_notification_name">Értesítés lejátszása</string>
@@ -316,7 +316,7 @@
     <string name="pref_summary_home_banner">Kezdőlap banner stílusának kapcsolása</string>
     <string name="pref_summary_ignore_media_store_artwork">Növelheti az album borításminőségét, de lassabb kép betöltési időt eredményez. Csak akkor engedélyezze ezt, ha problémái vannak az alacsony felbontású művekkel kapcsolatban</string>
     <string name="pref_summary_library_categories">A láthatóság és a könyvtári kategóriák sorrendjének beállítása.</string>
-    <string name="pref_summary_lock_screen">Retro zeneszámok zárolása a képernyőn</string>
+    <string name="pref_summary_lock_screen">zeneszámok zárolása a képernyőn</string>
     <string name="pref_summary_open_source_licences">A nyílt forráskódú szoftverek licence részletei</string>
     <string name="pref_summary_round_corners">Sarokszegélyek az ablakhoz, albumművészethez stb</string>
     <string name="pref_summary_tab_titles">Az alsó fül címének engedélyezése/tiltása</string>
@@ -393,9 +393,9 @@
     <string name="restored_previous_purchase_please_restart">Az előző vásárlás helyreállítása. Kérjük, indítsa újra az alkalmazást az összes funkció használatához.</string>
     <string name="restored_previous_purchases">Korábbi vásárlások visszaállítása.</string>
     <string name="restoring_purchase">A vásárlás visszaállítása…</string>
-    <string name="retro_equalizer">Retro Zene Hangszínszabályzó</string>
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_equalizer">Zene Hangszínszabályzó</string>
+    <string name="retro_music_player">Music Player</string>
+    <string name="retro_music_pro">Music Pro</string>
     <string name="saf_delete_failed">A fájl törlése sikertelen: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">Nem lehet SAF URI</string>
@@ -483,7 +483,7 @@
     <string name="translate">Fordítás</string>
     <string name="translate_community">Segítsen nekünk az alkalmazás nyelvének fordításához</string>
     <string name="twitter_page">Twitter oldal</string>
-    <string name="twitter_page_summary">Ossza meg tervét a RetroMusicApp segítségével</string>
+    <string name="twitter_page_summary">Ossza meg tervét a MusicApp segítségével</string>
     <string name="unlabeled">Címkézetlen</string>
     <string name="unplayable_file">Nem lehet lejátszani ezt a dalt.</string>
     <string name="up_next">A következő</string>

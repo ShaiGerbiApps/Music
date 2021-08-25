@@ -144,7 +144,7 @@
     <string name="depth">Djup</string>
     <string name="description">Beskrivning</string>
     <string name="device_info">Enhetsinformation</string>
-    <string name="dialog_message_set_ringtone">Låt Retro Music ändra ljudinställningar</string>
+    <string name="dialog_message_set_ringtone">Låt Music ändra ljudinställningar</string>
     <string name="dialog_title_set_ringtone">Ställ in ringsignal</string>
     <string name="do_you_want_to_clear_the_blacklist">Vill du rensa svartlistan?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Vill du ta bort <b>%1$s</b> från svartlistan?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">Genre</string>
     <string name="genres">Genrer</string>
     <string name="git_hub_summary">Gör en fork av projektet på GitHub</string>
-    <string name="google_plus_community">Gå med i Google Plus-communityn där du kan be om hjälp eller följa uppdateringar av Retro Music</string>
+    <string name="google_plus_community">Gå med i Google Plus-communityn där du kan be om hjälp eller följa uppdateringar av Music</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Tonad bild</string>
     <string name="image_settings_summary">Ändra inställningar för nedladdning av artistbild</string>
     <string name="inserted_x_songs_into_playlist_x">La till %1$d låtar i spellistan %2$s.</string>
-    <string name="instagram_page_summary">Dela din Retro Music-setup för att visa upp på Instagram</string>
+    <string name="instagram_page_summary">Dela din Music-setup för att visa upp på Instagram</string>
     <string name="keyboard">Tangentbord</string>
     <string name="label_bit_rate">Bitrate</string>
     <string name="label_file_format">Format</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">Välj från lokal lagring</string>
     <string name="pick_image_intent_text">Välj bild</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Följ vår Pinterestsida för lite designinspiration till Retro Music</string>
+    <string name="pinterest_page_summary">Följ vår Pinterestsida för lite designinspiration till Music</string>
     <string name="plain">Enkel</string>
     <string name="playing_notification_description">Notisen har knappar för play/pause etc.</string>
     <string name="playing_notification_name">Notis</string>
@@ -316,7 +316,7 @@
     <string name="pref_summary_home_banner">Visar en banner på hemfliken</string>
     <string name="pref_summary_ignore_media_store_artwork">Kan öka albumomslagens kvalitet, men orsakar långsammare laddningstider för bilder. Aktivera endast om du har problem med lågupplösta bilder</string>
     <string name="pref_summary_library_categories">Konfigurera synlighet och ordning för bibliotekskategorier.</string>
-    <string name="pref_summary_lock_screen">Använd Retro Music:s anpassade låsskärmskontroller</string>
+    <string name="pref_summary_lock_screen">Använd Music:s anpassade låsskärmskontroller</string>
     <string name="pref_summary_open_source_licences">Licensinformation för programvara med öppen källkod</string>
     <string name="pref_summary_round_corners">Runda appens kanter</string>
     <string name="pref_summary_tab_titles">Visa titlar för det nedre navigeringsfältets flikar</string>
@@ -393,9 +393,9 @@
     <string name="restored_previous_purchase_please_restart">Återställde tidigare köp. Starta om appen för att använda alla funktioner.</string>
     <string name="restored_previous_purchases">Återställde tidigare köp.</string>
     <string name="restoring_purchase">Återställer köp…</string>
-    <string name="retro_equalizer">Retro Music Equalizer</string>
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_equalizer">Music Equalizer</string>
+    <string name="retro_music_player">Music Player</string>
+    <string name="retro_music_pro">Music Pro</string>
     <string name="saf_delete_failed">Radering av fil misslyckades: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">Kan inte hämta SAF URI</string>
@@ -483,7 +483,7 @@
     <string name="translate">Översätt</string>
     <string name="translate_community">Hjälp oss att översätta appen till ditt språk</string>
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Dela din design med Retro Music</string>
+    <string name="twitter_page_summary">Dela din design med Music</string>
     <string name="unlabeled">Omärkt</string>
     <string name="unplayable_file">Kunde inte spela den här låten.</string>
     <string name="up_next">Spelas härnäst</string>
@@ -516,7 +516,7 @@
     <string name="pref_language_name">Välj språk</string>
     <string name="translators">Översättare</string>
     <string name="translators_summary">Människorna som hjälpte till att översätta den här appen</string>
-    <string name="try_retro_music_premium">Prova Retro Music Premium</string>
+    <string name="try_retro_music_premium">Prova Music Premium</string>
     <plurals name="albumSongs">
         <item quantity="one">Låt</item>
         <item quantity="other">Låtar</item>
